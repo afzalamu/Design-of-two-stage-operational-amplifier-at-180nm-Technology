@@ -86,6 +86,9 @@ Before designing, the following steps were taken:
 
 ## Simulation Results
 ![image](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology/assets/124300839/73a7b984-aba1-48ce-8e4c-cd77ea951aea)
+## Layout using Electric binary
+![image](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology/assets/124300839/1fdaab91-c425-402f-8edf-de20dba2d970)
+
 
 
 ## References
