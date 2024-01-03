@@ -76,12 +76,16 @@ Before designing, the following steps were taken:
 ![image](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology/assets/124300839/d1da8f8a-a900-4ac8-8c65-625a232feb94)
 
 ## Simulation Pictures
-[Insert Simulation Pictures here]
+**Transfer Function**
+![image](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology/assets/124300839/2677fb3c-654a-4575-af90-9e90ee4a80b0)
+**Transient Analysis**
+![image](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology/assets/124300839/e1d85ed5-75f6-4532-aa87-2a0ed8d0bf2f)
+**Frequency Response**
+![image](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology/assets/124300839/e5e4d721-7075-4bce-893c-78a9243801f2)
 
 ## Simulation Results
-- GBW: 1.01 GHz
-- Gain: 1125 (61.03dB)
-- Phase Margin: 47°
+![image](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology/assets/124300839/73a7b984-aba1-48ce-8e4c-cd77ea951aea)
+
 
 ## References
 - "The Gm/Id Design Methodology Demystified" by Dr. Hesham Omran
