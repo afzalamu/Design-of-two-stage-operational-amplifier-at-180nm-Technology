@@ -1,5 +1,5 @@
 # Design of Two-Stage Operational Amplifier at 180nm Technology
-![Uploading image.png…]()
+![image](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology/assets/124300839/1792bfa7-0244-4d07-81af-db67d53d9f7c)
 
 ## Project Description
 This project involves the design of a two-stage operational amplifier at 180nm technology using the GM over Id methodology. The amplifier is designed to meet the specifications: Gain > 60dB, load capacitance Cl = 20fF, gain bandwidth product (GBW) = 1GHz, and Phase margin > 50 degrees.
